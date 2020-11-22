@@ -12,10 +12,10 @@ baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: jackal@gmail.com
+email: carles.sanchez.alonso@gmail.com
 author: Carles Sánchez
-twitter_username: clenemt
-github_username: clenemt
+twitter_username: 
+github_username: carlessanchezalonso
 github_source: jackal
 
 # Put your ga tracking code below
