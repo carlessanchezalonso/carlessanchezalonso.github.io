@@ -31,7 +31,7 @@ But we have the dice, so we can throw it as many times as we want, and then we w
 
 $$\mathbf{N} = \{N_i\}, \mathrm{with } \: i \in 1,..,6$$
     
-We know the likelihood of observing such counts given a set of intrinsic probabilities for each outcome, $p(\mathbf{N}|\mathbf{f})$, is a __[multinomial distribution](https://en.wikipedia.org/wiki/Multinomial_distribution)__. But we don't want that, we want the posterior on those probabilities, given that we have observed those counts. For that posterior, we ask Thomas Bayes (or Price or Laplace or whoever), and they tell us that is given by:
+We know the likelihood of observing such counts given a set of intrinsic probabilities for each outcome, $$p(\mathbf{N}|\mathbf{f})$$, is a __[multinomial distribution](https://en.wikipedia.org/wiki/Multinomial_distribution)__. But we don't want that, we want the posterior on those probabilities, given that we have observed those counts. For that posterior, we ask Thomas Bayes (or Price or Laplace or whoever), and they tell us that is given by:
 
 $$p(\mathbf{f}|\mathbf{N}) \propto p(\mathbf{N}|\mathbf{f}) p(\mathbf{f})$$
 
