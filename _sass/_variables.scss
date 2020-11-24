@@ -1,6 +1,7 @@
 // COLORS ====================================
 
 // COLORS - INDEX ------------------
+$white:                     #FFFFFF
 $gray-dark:                 #333;
 $gray:                      #55595c;
 $gray-light:                #818a91;
@@ -23,7 +24,7 @@ $text-muted:                $gray-light;
 
 // GLOBALS  ====================================
 
-$body-bg:                   transparent;
+$body-bg:                   $white;
 $body-color:                $gray-dark;
 
 // GLOBALS - LINKS ------------------
