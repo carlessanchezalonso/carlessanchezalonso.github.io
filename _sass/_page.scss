@@ -54,15 +54,15 @@
 
 .select-hide,
 .select-show {
-  background-color: transparent;
-  color: transparent;
+  background-color: $white;
+  color: $white;
   white-space: nowrap;
   text-decoration: line-through;
 }
 
 .select-show {
   color: #fff;
-  background-color: transparent;
+  background-color: $white;
 }
 
 // PAGE ARTICLES & POST ====================================
@@ -110,7 +110,7 @@ p.post-desc {
   display: block;
   width: $spacer4;
   height: 5px;
-  background: transparent;
+  background: $white;
 }
 
 .post-link::after {
