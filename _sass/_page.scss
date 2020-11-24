@@ -184,3 +184,8 @@ p.post-desc {
     border-style: solid;
   }
 }
+
+
+.page {
+  width: calc(100% - #{$right-sidebar-width-narrow});
+}
