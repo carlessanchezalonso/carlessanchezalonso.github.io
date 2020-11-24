@@ -35,7 +35,7 @@ $link-hover-color:          $dark-blue;
 $link-hover-decoration:     underline;
 
 // GLOBALS - SPACERS ------------------
-$spacer:                    2rem;
+$spacer:                    1rem;
 $spacer0:                   $spacer/2;
 $spacer1:                   $spacer * 1.5;
 $spacer2:                   $spacer * 2;
@@ -85,6 +85,6 @@ $mq-breakpoints: (
 );
 
 $container-widths: (
-  sm: 620px,
-  md: 748px
+  sm: 1000px,
+  md: 1200px
 );
