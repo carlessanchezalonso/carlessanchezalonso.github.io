@@ -56,7 +56,7 @@ small,
 mark,
 .mark {
   padding: .2em;
-  background-color: $ligt-yellow;
+  background-color: transparent;
 }
 
 code, kbd,
@@ -68,7 +68,7 @@ code {
   padding: .2rem .4rem;
   font-size: 90%;
   color: $red;
-  background-color: $gray-lightest;
+  background-color: transparent;
   border-radius: $border-radius;
 }
 
@@ -112,7 +112,7 @@ kbd {
   padding: .2rem .4rem;
   font-size: 90%;
   color: #fff;
-  background-color: $gray-dark;
+  background-color: transparent;
   border-radius: $border-radius-sm;
 
   kbd {
