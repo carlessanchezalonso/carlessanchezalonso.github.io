@@ -6,7 +6,7 @@ desc:
 layout: post
 ---
 
-_Boris Leistedt, August 2017_
+_Carles Sánchez, Nov 2020_
 
 
 # Using the Dirichlet distribution to sample galaxy distances
