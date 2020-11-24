@@ -76,8 +76,9 @@ pre {
   display: block;
   margin-top: 0;
   margin-bottom: 1rem;
-  font-size: 90%;
+  font-size: 80%;
   color: $gray-dark;
+  white-space: pre-wrap;
 
   code {
     padding: 0;
