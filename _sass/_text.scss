@@ -68,7 +68,7 @@ code {
   padding: .2rem .4rem;
   font-size: 90%;
   color: $red;
-  background-color: transparent;
+  background-color: $white;
   border-radius: $border-radius;
 }
 
@@ -77,13 +77,13 @@ pre {
   margin-top: 0;
   margin-bottom: 1rem;
   font-size: 90%;
-  color: transparent;
+  color: $white;
 
   code {
     padding: 0;
     font-size: inherit;
     color: inherit;
-    background-color: transparent;
+    background-color: $white;
     border-radius: 0;
   }
 }
