@@ -54,15 +54,15 @@
 
 .select-hide,
 .select-show {
-  background-color: $gray-lighter;
-  color: $gray-lighter;
+  background-color: transparent;
+  color: transparent;
   white-space: nowrap;
   text-decoration: line-through;
 }
 
 .select-show {
   color: #fff;
-  background-color: $gray-dark;
+  background-color: transparent;
 }
 
 // PAGE ARTICLES & POST ====================================
