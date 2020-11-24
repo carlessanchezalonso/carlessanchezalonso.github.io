@@ -1,7 +1,10 @@
 ---
-title: My first post
-desc: This is a sample for my first post.
+title: What is cosmology?
+desc: A brief description of the history
 ---
+
+
+Cosmology is the branch of physics that studies the origin, evolution and structure of the Universe as a whole, and it was mainly developed in the twentieth century, definitely moving from philosophy to science. Modern cosmology is based on the belief that the place we occupy in the Universe is not special, statement that we know as the cosmological principle. In particular, it states that the Universe is homogeneous and isotropic. Needless to say, the cos- mological principle is not exact, but an approximation that holds better and better the larger the length scales we consider.
 
 ## Stricto nitar
 
