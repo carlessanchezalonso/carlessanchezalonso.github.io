@@ -169,8 +169,8 @@ p.post-desc {
 
 .site-profile {
   float: right;
-  width: 235px;
-  height: 167px;
+  width: 156.6px;
+  height: 111.3px;
   border-width: 3px;
   border-style: solid;
   margin: 0.5rem 0rem 2rem 2rem;
@@ -178,8 +178,8 @@ p.post-desc {
 
 @include mq-up(md) {
   .site-profile {
-    width: 235px;
-    height: 167px;
+    width: 317px;
+    height: 225px;
     border-width: 3px;
     border-style: solid;
   }
