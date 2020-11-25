@@ -11,12 +11,6 @@ permalink: /about/
 <div class="lead lead-about"> Some biographical information, jobs, outreach, and more. 
 </div>
 
-{::nomarkdown} 
-<figure class="site-profile">
-    <img src="{{ site.baseurl }}/assets/img/profile.jpg">
-</figure>
-{:/}
-
 Neve aethere orbe hic *virginis trunco* in spreto diuque latarumque, mea? Ultima
 sulcum antris conlapsosque potiere curvat Phasias superas adpulit vertex est
 Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
