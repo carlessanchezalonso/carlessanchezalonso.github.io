@@ -4,7 +4,7 @@ layout: default
 
 <div class="lead pretty-links">
 
-Hello! I am [**Carles Sánchez**](about/), a postdoctoral researcher at the *Department of Physics and Astronomy* of the [University of Pennsylvania](https://en.wikipedia.org/wiki/University_of_Pennsylvania), where I work at the intersection between astronomical data, theory and statistics. I am interested in **cosmology** as probed by the large-scale structure of the Universe and its weak gravitational lensing effect, but also in cosmic voids, the connection between galaxies and dark matter halos, and galaxy lensing of the cosmic microwave background. I focus on developing and applying new inference techniques that enable a principled and Bayesian analysis of galaxy survey data, including the modeling and characterization of their limiting systematic effects.
+Hello! I am [**Carles Sánchez**](about/), a postdoctoral researcher at the *Department of Physics and Astronomy* of the [University of Pennsylvania](https://en.wikipedia.org/wiki/University_of_Pennsylvania), where I work at the intersection between astronomical data, theory and statistics. I am interested in **cosmology** as probed by the large-scale structure of the Universe, and I focus on developing and applying new inference techniques that enable a principled and Bayesian analysis of astronomical data.
   
 {::nomarkdown}
 <figure class="site-profile">
