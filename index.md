@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Hello! I am [**Carles Sánchez**](about/), a postdoctoral researcher at the Department of Physics and Astronomy of the University of Pennsylvania, where I work at the intersection between astronomical data, theory and statistics.   You would normally put your [full name](about/) here and say something *smart* about yourself.
-
 <div class="lead pretty-links">
+
+Hello! I am [**Carles Sánchez**](about/), a postdoctoral researcher at the Department of Physics and Astronomy of the University of Pennsylvania, where I work at the intersection between astronomical data, theory and statistics.   You would normally put your [full name](about/) here and say something *smart* about yourself.
   
 {::nomarkdown}
 <figure class="site-profile">
