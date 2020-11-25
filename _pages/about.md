@@ -14,6 +14,7 @@ permalink: /about/
 {::nomarkdown}
 <figure class="site-profile2">
     <img src="{{ site.baseurl }}/assets/img/terrassa.jpeg">
+    <figcaption>{{ Masia Freixa, Terrassa }}</figcaption>
 </figure>
 {:/}
 
