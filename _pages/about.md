@@ -14,12 +14,9 @@ permalink: /about/
 {::nomarkdown}
 <figure class="site-profile2">
     <img src="{{ site.baseurl }}/assets/img/terrassa.jpeg">
-    <figcaption>{{ Masia Freixa, Terrassa }}</figcaption>
+    <figcaption>{{ "Masia Freixa, Terrassa" }}</figcaption>
 </figure>
 {:/}
-
-
-{% include image.html url="{../assets/img/terrassa.jpeg" description="Masia Freixa, Terrassa" %}
 
 I am originally from [Terrassa](https://en.wikipedia.org/wiki/Terrassa), a city near **Barcelona**, Spain. I lived in Terrassa through all my education, and I attended the [Universitat Autònoma de Barcelona](https://www.uab.cat) for my undergrad studies, and then joined the High-Energy Physics Institute ([IFAE](http://www.ifae.es/eng/) for my masters and PhD, under the supervision of Professor Ramon Miquel. That institute is part of the [Barcelona Institute of Science and Technology](https://bist.eu). 
 
