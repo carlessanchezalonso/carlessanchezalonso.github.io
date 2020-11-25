@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Hello! I am [**Carles Sánchez**](about/), a postdoctoral researcher at the Department of Physics and Astronomy of the University of Pennsylvania, where I work at the intersection between astronomical data, theory and statistics.   You would normally put your [full name](about/) here and say something *smart* about yourself.
+
 <div class="lead pretty-links">
   
 {::nomarkdown}
@@ -10,8 +12,6 @@ layout: default
 </figure>
 {:/}
 
-
-  Hello! I am [**Carles Sánchez**](about/), a postdoctoral researcher at the Department of Physics and Astronomy of the University of Pennsylvania, where I work at the intersection between astronomical data, theory and statistics.   You would normally put your [full name](about/) here and say something *smart* about yourself.
 
   This could also be the good place to say were you are coming from, what you [do for a living](work/) and maybe what you are [interested in](projects/). You might also be [writing](articles/) about stuff.
 
