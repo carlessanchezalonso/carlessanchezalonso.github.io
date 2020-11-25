@@ -11,10 +11,9 @@ permalink: /about/
 <div class="lead lead-about"> Some biographical information, jobs, outreach, and more. 
 </div>
 
-Neve aethere orbe hic *virginis trunco* in spreto diuque latarumque, mea? Ultima
-sulcum antris conlapsosque potiere curvat Phasias superas adpulit vertex est
-Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
-[candida](http://murmure.org/.html).
+I am originally from [Terrassa](https://en.wikipedia.org/wiki/Terrassa), a city near **Barcelona**, Spain. I lived in Terrassa through all my education, and I attended the [Universitat Autònoma de Barcelona](https://www.uab.cat) for my undergrad studies, and then joined the High-Energy Physics Institute ([IFAE](http://www.ifae.es/eng/) for my masters and PhD. That center is part of the [Barcelona Institute of Science and Technology](https://bist.eu). 
+
+
 
 ---
 
