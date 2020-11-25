@@ -14,7 +14,15 @@ Hello! I am [**Carles Sánchez**](about/), a postdoctoral researcher at the *Dep
 
 Personally, I very much enjoy to *tell stories with data*, from early exploration to conclusions through analysis and visualization. In the [Blog](articles/), I write about some of the science I do, its context and particularly about specific methods that can be used for other purposes. I also present some analyses I do of **public data sets**, which even though they are unrelated to cosmology, they are interesting to analyze through a similar lens. There is some photography there, too. 
 
-More formally, descriptions of my main scientific projects can be found in [Work](work/). In those I try to include some context as well as some graphical representations. Also, here is my full academic **CV**. 
+More formally, descriptions of my main scientific projects can be found in [Work](work/). In those I try to include some context as well as some graphical representations. Also, here is my full academic **CV**, and my publications are also listed in Google Scholar and ORCID. 
+
+
+
+
+
+and here you can learn more [about me](about/). 
+
+
 
 
 
