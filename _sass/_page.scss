@@ -184,3 +184,19 @@ p.post-desc {
     border-style: solid;
   }
 }
+
+.site-profile2 {
+  float: right;
+  width: 156.6px;
+  height: 111.3px;
+  border-width: 0px;
+  margin: 0.5rem 0rem 2rem 2rem;
+}
+
+@include mq-up(md) {
+  .site-profile2 {
+    width: 320.28px;
+    height: 227px;
+    border-width: 0px;
+  }
+}
