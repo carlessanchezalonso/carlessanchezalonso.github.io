@@ -4,7 +4,7 @@
 title: Carles Sánchez               # used for the html title of every page
 desc: >
   Personal website of Carles Sánchez
-url: http://jackal.com      # put your website hosting url here
+url: "https://carlessanchezalonso.github.io" # the base hostname & protocol for your site
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
@@ -71,6 +71,6 @@ gems:
   - jekyll-paginate
 
 
-url: "https://carlessanchezalonso.github.io" # the base hostname & protocol for your site
+
 plugins:
   - jekyll-sitemap
