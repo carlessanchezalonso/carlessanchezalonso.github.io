@@ -18,4 +18,6 @@ More formally, descriptions of my main scientific projects can be found in [Work
 
 Here you can learn more [about me](about/), including a list of past jobs. There you will also find some **outreach** projects I participated in. I think of outreach as one of the ultimate goals of scientific research, and not a separate task that adds to the duties of a scientist. And even more importantly, it is also a great opportunity to stimulate and improve **equity, diversity and inclusion** in science and society. 
 
+The easiest way to contact me is through email: <a href="mailto:carles.sanchez.alonso@gmail.com">carles.sanchez.alonso@gmail.com</a>
+
 </div>
