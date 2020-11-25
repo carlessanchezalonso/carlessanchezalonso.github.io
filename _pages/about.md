@@ -11,6 +11,12 @@ permalink: /about/
 <div class="lead lead-about"> Some biographical information, jobs, outreach, and more. 
 </div>
 
+{::nomarkdown}
+<figure class="site-profile">
+    <img src="{{ site.baseurl }}/assets/img/terrassa.jpeg">
+</figure>
+{:/}
+
 I am originally from [Terrassa](https://en.wikipedia.org/wiki/Terrassa), a city near **Barcelona**, Spain. I lived in Terrassa through all my education, and I attended the [Universitat Autònoma de Barcelona](https://www.uab.cat) for my undergrad studies, and then joined the High-Energy Physics Institute ([IFAE](http://www.ifae.es/eng/) for my masters and PhD, under the supervision of Professor Ramon Miquel. That institute is part of the [Barcelona Institute of Science and Technology](https://bist.eu). 
 
 After my PhD, in 2017, I moved to the city of Philadelphia (USA), to join the University of Pennsylvania, and work with Professor Gary M. Bernstein. I currently live in **West Philadelphia** with my family. 
