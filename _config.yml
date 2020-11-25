@@ -70,3 +70,7 @@ exclude:
 gems:
   - jekyll-paginate
 
+
+url: "https://carlessanchezalonso.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
