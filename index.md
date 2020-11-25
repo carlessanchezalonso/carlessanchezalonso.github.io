@@ -12,8 +12,10 @@ Hello! I am [**Carles Sánchez**](about/), a postdoctoral researcher at the *Dep
 </figure>
 {:/}
 
+Personally, I very much enjoy to *tell stories with data*, from early exploration to conclusions through analysis and visualization. In the [Blog](articles/), I write about some of the science I do, its context and particularly about specific methods that can be used for other purposes. I also present some analyses I do of **public data sets**, which even though they are unrelated to cosmology, they are interesting to analyze through a similar lens. There is some photography there, too. 
 
-  This could also be the good place to say were you are coming from, what you [do for a living](work/) and maybe what you are [interested in](projects/). You might also be [writing](articles/) about stuff.
+More formally, descriptions of my main scientific projects can be found in [Work](work/). In those I try to include some context as well as some graphical representations. Also, here is my full academic **CV**. 
 
-  But after all this is your site and I'm just a **placeholder text** so what would i know about some *home page content*.
+
+
 </div>
