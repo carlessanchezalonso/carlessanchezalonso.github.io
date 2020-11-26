@@ -19,18 +19,26 @@ permalink: /about/
 
 I am originally from [Terrassa](https://en.wikipedia.org/wiki/Terrassa), a city near **Barcelona**, Spain. I lived in Terrassa through all my education, and I attended the [Universitat Autònoma de Barcelona](https://www.uab.cat) for my undergrad studies, and then joined the High-Energy Physics Institute ([IFAE](http://www.ifae.es/eng/) for my masters and PhD, under the supervision of Professor Ramon Miquel. That institute is part of the [Barcelona Institute of Science and Technology](https://bist.eu). 
 
-After my PhD, in 2017, I moved to the city of Philadelphia (USA), to join the University of Pennsylvania, and work with Professor Gary M. Bernstein. I currently live in **West Philadelphia** with my family. 
+## Education
+
+**2013-2017**: *PhD in Physics* (Advisor: Ramon Miquel), [Universitat Autònoma de Barcelona](https://www.uab.cat) & [Institut de Física d’Altes Energies (IFAE)](http://www.ifae.es/eng/) (Spain). Thesis: *Dark energy properties from the combination of large-scale structure and weakgravitational lensing in the Dark Energy Survey* (Cum Laude).
+
+**2011-2013**: *Master (MSc) in High Energy Physics, Astrophysics and Cosmology*, [Universitat Autònoma de Barcelona](https://www.uab.cat) & [Institut de Física d’Altes Energies (IFAE)](http://www.ifae.es/eng/) (Spain).
+
+**2007-2011**: *Bachelor in Physics (Bsc). Mention in Fundamental Physics*, [Universitat Autònoma de Barcelona](https://www.uab.cat) (Spain).
 
 ---
 
-## Bio
+After my PhD, in 2017, I moved to the city of Philadelphia (USA), to join the University of Pennsylvania, and work with Professor Gary M. Bernstein. I currently live in **West Philadelphia** with my family. 
+
+
+
+ and Appointments
 
 
 **Since 2020**: _[Royal Society University Research fellow](https://royalsociety.org/grants-schemes-awards/grants/university-research/)_,
 [Department of Physics, Imperial College London](https://www.imperial.ac.uk/astrophysics/centre-for-inference-and-cosmology/) (UK)
 
-**2015-2019**: _[NASA Einstein Fellow](http://cxc.harvard.edu/fellows/fellowslist.html)_, and _[Simons Foundation Junior Fellow](https://www.simonsfoundation.org/simons-society-of-fellows/junior-fellows/2015-junior-fellows/)_,
- [Center of Cosmology and Particle Physics, New York University](http://www.ccpp.nyu.edu/) (USA)
 
 Remisit terrae illud praetendat quod inplicat inter. Volvitur tum, naiades et
 sublimis conde!
