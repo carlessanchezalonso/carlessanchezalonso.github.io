@@ -33,4 +33,9 @@ After my PhD, in 2017, I moved to the city of Philadelphia (USA), to join the [U
 
 **2007-2011**: *Bachelor in Physics (Bsc). Mention in Fundamental Physics*, [Universitat Autònoma de Barcelona](https://www.uab.cat) (Spain).
 
+---
+
+## Outreach
+
+I think outreach and science communication consititute a final goal of the research process, and hence they are not a separate, optional task that adds to the duties of a scientist. Also, scientific outreach provides a privileged way of stimulating and attracting curious and talented young students at an early stage of their lives, who will constitute the future generations of scientists, and to raise public awareness towards the importance and value of science in our society. Even more importantly, it provides scientists with a voice to speak up for equity, inclusion and justice in the sciences and society. For all these reasons, I am always happy to participate in outreach events. If you are interested and have some proposal, please feel free to contact me!
 
