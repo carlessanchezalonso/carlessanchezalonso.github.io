@@ -31,24 +31,7 @@ I am originally from [Terrassa](https://en.wikipedia.org/wiki/Terrassa), a city 
 
 After my PhD, in 2017, I moved to the city of Philadelphia (USA), to join the University of Pennsylvania, and work with Professor Gary M. Bernstein. I currently live in **West Philadelphia** with my family. 
 
-
-
- and Appointments
-
-
-**Since 2020**: _[Royal Society University Research fellow](https://royalsociety.org/grants-schemes-awards/grants/university-research/)_,
-[Department of Physics, Imperial College London](https://www.imperial.ac.uk/astrophysics/centre-for-inference-and-cosmology/) (UK)
-
-
-Remisit terrae illud praetendat quod inplicat inter. Volvitur tum, naiades et
-sublimis conde!
-
-
-{::nomarkdown}
-<figure class="site-profile2">
-    <img src="{{ site.baseurl }}/assets/img/philadelphia.png">
-</figure>
-{:/}
+**Since 2017**: *Postdoctoral researcher*, Department of Physics and Astronomy, [University of Pennsylvania](https://www.upenn.edu), USA.
 
 
 Captum ligno nepotum arisque dimittere
