@@ -17,9 +17,15 @@ permalink: /about/
 </figure>
 {:/}
 
-I am originally from [Terrassa](https://en.wikipedia.org/wiki/Terrassa), a city near **Barcelona**, Spain. I lived in Terrassa through all my education, and I attended the [Universitat Autònoma de Barcelona](https://www.uab.cat) for my undergrad studies, and then joined the High-Energy Physics Institute ([IFAE](http://www.ifae.es/eng/) for my masters and PhD, under the supervision of Professor Ramon Miquel. That institute is part of the [Barcelona Institute of Science and Technology](https://bist.eu). 
+I am originally from [Terrassa](https://en.wikipedia.org/wiki/Terrassa), a city near **Barcelona**, Spain. I lived in Terrassa through all my education, and I attended the [Universitat Autònoma de Barcelona](https://www.uab.cat) for my undergrad studies, and then joined the High-Energy Physics Institute ([IFAE](http://www.ifae.es/eng/) for my masters and PhD, under the supervision of [Professor Ramon Miquel](https://www.icrea.cat/Web/ScientificStaff/ramon-miquel-pascual-389). That institute is part of the [Barcelona Institute of Science and Technology](https://bist.eu). 
 
-## Education
+After my PhD, in 2017, I moved to the city of Philadelphia (USA), to join the [University of Pennsylvania](https://en.wikipedia.org/wiki/University_of_Pennsylvania), and work with [Professor Gary M. Bernstein](https://web.sas.upenn.edu/garyb/). I currently live in **West Philadelphia** with my family. 
+
+---
+
+## Timeline
+
+**Since 2017**: *Postdoctoral researcher*, Department of Physics and Astronomy, [University of Pennsylvania](https://www.upenn.edu), USA.
 
 **2013-2017**: *PhD in Physics* (Advisor: Ramon Miquel), [Universitat Autònoma de Barcelona](https://www.uab.cat) & [Institut de Física d’Altes Energies (IFAE)](http://www.ifae.es/eng/) (Spain). Thesis: *Dark energy properties from the combination of large-scale structure and weakgravitational lensing in the Dark Energy Survey* (Cum Laude).
 
@@ -27,57 +33,4 @@ I am originally from [Terrassa](https://en.wikipedia.org/wiki/Terrassa), a city 
 
 **2007-2011**: *Bachelor in Physics (Bsc). Mention in Fundamental Physics*, [Universitat Autònoma de Barcelona](https://www.uab.cat) (Spain).
 
----
-
-After my PhD, in 2017, I moved to the city of Philadelphia (USA), to join the University of Pennsylvania, and work with Professor Gary M. Bernstein. I currently live in **West Philadelphia** with my family. 
-
-**Since 2017**: *Postdoctoral researcher*, Department of Physics and Astronomy, [University of Pennsylvania](https://www.upenn.edu), USA.
-
-
-Captum ligno nepotum arisque dimittere
-[maternaque](http://estumectat.net/fugae). Quae maior Typhoeus ramis huius aura
-deprendit instat hirsuta. Miserrima inque: tibi qua, ultimus a Agaue vallibus
-dictos.
-
-1. Perseus est
-2. O Osiris accedat
-3. Repetita usum
-
-Nobis esse, *ut* spe, deducunt albentes, quoque, saxo cepit et quid gerebant
-est. Magnae haec quod, iugeribus gemmata. Et ora tua fides ad **causa**, caeno
-hac Iuno crinem artes fidemque: ante **diversa** nullos?
-
-## Si leti tegit undis quam
-
-Lorem markdownum caesariem aequore virtus nunc vittas, nec perosus urbem est:
-verba est eripere quater obvertit geminaverat amore. Ac freto. Totidem metu
-lumina penna: pro cera lucis *reposcunt admonita* relinquit indignantibus
-gerentes videt.
-
-Et **mixtos alium** adiacet ordine, vidisse nurus: vestem. *Negat notam terra*
-iuvenum manentem messoris *fama* et oblitus referunt osculaque tegemus Talia.
-Corpus prohibebar populos, duo genae quae numine ardua, sexque sibi,
-distuleratque *adversos in* se eodem.
-
-- Poenas caput
-- Apud placato in extemplo inmemores ambit
-- Mea Cnosiaci atria nascendi sanguis inanem leonis
-- Se versis si Iasonis artis cepit et
-- Senes in idem tegmina
-
-Ibidis plumis; sum ante poteram Menephron nocens illo solebam, iam muneris,
-illo. Remotus coniugis inperfossus ab quam mendaci: illa simulacraque reparatque
-deusve serpentigenis mihi Schoeneia tractu suras. Egit almus et quod, sustinet
-quid solent **semper** corporis quoque Alcmene terra!
-
----
-
-## Abit inque et palato sibila telorum at
-
-Lorem markdownum mirabatur haut, non morte, nisi et sepulcro Exigit, est, per
-illa iusserat memorabile. Pater damus multa, in lucosque carent oculis adsum
-miseris. Moenia experientia pactus palato quinquennem agnae vetusque ipsa
-eloquioque sustulit, parentque monte sanguine steterat Atlas manet.
-
-</div>
 
