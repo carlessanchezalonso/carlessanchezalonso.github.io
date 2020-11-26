@@ -23,7 +23,14 @@ After my PhD, in 2017, I moved to the city of Philadelphia (USA), to join the Un
 
 ---
 
-## Quem fata quamvis
+## Bio
+
+
+**Since 2020**: _[Royal Society University Research fellow](https://royalsociety.org/grants-schemes-awards/grants/university-research/)_,
+[Department of Physics, Imperial College London](https://www.imperial.ac.uk/astrophysics/centre-for-inference-and-cosmology/) (UK)
+
+**2015-2019**: _[NASA Einstein Fellow](http://cxc.harvard.edu/fellows/fellowslist.html)_, and _[Simons Foundation Junior Fellow](https://www.simonsfoundation.org/simons-society-of-fellows/junior-fellows/2015-junior-fellows/)_,
+ [Center of Cosmology and Particle Physics, New York University](http://www.ccpp.nyu.edu/) (USA)
 
 Remisit terrae illud praetendat quod inplicat inter. Volvitur tum, naiades et
 sublimis conde!
