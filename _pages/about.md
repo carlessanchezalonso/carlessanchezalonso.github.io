@@ -28,6 +28,14 @@ After my PhD, in 2017, I moved to the city of Philadelphia (USA), to join the Un
 Remisit terrae illud praetendat quod inplicat inter. Volvitur tum, naiades et
 sublimis conde!
 
+
+{::nomarkdown}
+<figure class="site-profile2">
+    <img src="{{ site.baseurl }}/assets/img/philadelphia.png">
+</figure>
+{:/}
+
+
 Captum ligno nepotum arisque dimittere
 [maternaque](http://estumectat.net/fugae). Quae maior Typhoeus ramis huius aura
 deprendit instat hirsuta. Miserrima inque: tibi qua, ultimus a Agaue vallibus
