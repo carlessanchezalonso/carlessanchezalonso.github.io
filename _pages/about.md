@@ -41,3 +41,10 @@ I think outreach and science communication consititute a final goal of the resea
 
 Some events I participated in:
 
+- *Tutorial on Monte-Carlo Markov Chains*, University of Pennsylvania
+- *Measuring the Hubble Constant*, Crazy about Science high-school program, Barcelona
+- Recording of a Barcelona TV video with high-school students: *Maps of dark matter*
+- Saturday Physics program, 1-hour lecture on Cosmology, Barcelona
+- Lecture on Cosmology at Barcelona International Youth Science Challenge (BIYSC)
+- Cosmology seminar at the Astronomical Association of Sant Cugat, Barcelona
+
