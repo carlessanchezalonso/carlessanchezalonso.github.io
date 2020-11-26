@@ -31,9 +31,9 @@ navigation:
   - title: Blog
     url: /articles/
     desc: Stuffs I write about
-  - title: Work
+  - title: Research
     url: /work/
-    desc: Stuffs I hate to do
+    desc: Scientific research
   - title: CV
     url: https://www.dropbox.com/s/hd4oz11je1top9m/cv_publist_csanchez.pdf?raw=1
     desc: CV of Carles Sanchez
