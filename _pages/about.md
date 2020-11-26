@@ -25,13 +25,13 @@ After my PhD, in 2017, I moved to the city of Philadelphia (USA), to join the [U
 
 ## Timeline
 
-**Since 2017**: *Postdoctoral researcher*, Department of Physics and Astronomy, [University of Pennsylvania](https://www.upenn.edu), USA.
+- **Since 2017**: *Postdoctoral researcher*, Department of Physics and Astronomy, [University of Pennsylvania](https://www.upenn.edu), USA.
 
-**2013-2017**: *PhD in Physics* (Advisor: Ramon Miquel), [Universitat Autònoma de Barcelona](https://www.uab.cat) & [Institut de Física d’Altes Energies (IFAE)](http://www.ifae.es/eng/) (Spain). Thesis: *Dark energy properties from the combination of large-scale structure and weakgravitational lensing in the Dark Energy Survey* (Cum Laude).
+- **2013-2017**: *PhD in Physics* (Advisor: Ramon Miquel), [Universitat Autònoma de Barcelona](https://www.uab.cat) & [Institut de Física d’Altes Energies (IFAE)](http://www.ifae.es/eng/) (Spain). Thesis: *Dark energy properties from the combination of large-scale structure and weakgravitational lensing in the Dark Energy Survey* (Cum Laude).
 
-**2011-2013**: *Master (MSc) in High Energy Physics, Astrophysics and Cosmology*, [Universitat Autònoma de Barcelona](https://www.uab.cat) & [Institut de Física d’Altes Energies (IFAE)](http://www.ifae.es/eng/) (Spain).
+- **2011-2013**: *Master (MSc) in High Energy Physics, Astrophysics and Cosmology*, [Universitat Autònoma de Barcelona](https://www.uab.cat) & [Institut de Física d’Altes Energies (IFAE)](http://www.ifae.es/eng/) (Spain).
 
-**2007-2011**: *Bachelor in Physics (Bsc). Mention in Fundamental Physics*, [Universitat Autònoma de Barcelona](https://www.uab.cat) (Spain).
+- **2007-2011**: *Bachelor in Physics (Bsc). Mention in Fundamental Physics*, [Universitat Autònoma de Barcelona](https://www.uab.cat) (Spain).
 
 ---
 
