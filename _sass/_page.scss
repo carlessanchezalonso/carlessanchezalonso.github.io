@@ -207,7 +207,10 @@ p.post-desc {
   width: 156.6px;
   height: 111.3px;
   border-width: 0px;
-  margin: 0.5rem auto;
+  margin-right: 0rem;
+  margin-left: 2rem;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
 }
 
 @include mq-up(md) {
