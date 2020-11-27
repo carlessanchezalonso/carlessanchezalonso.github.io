@@ -27,7 +27,7 @@ Extracting cosmological information from imaging surveys requires the estimation
 ## Cosmic voids and void lensing
 
 {::nomarkdown}
-<figure class="site-profile2">
+<figure class="site-profile3">
     <img src="{{ site.baseurl }}/assets/img/voids_animation.gif">
 </figure>
 {:/}
