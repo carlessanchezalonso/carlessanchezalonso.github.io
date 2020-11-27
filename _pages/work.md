@@ -7,6 +7,8 @@ permalink: /work/
 ---
 
 <div class="pretty-links">
+  
+Here I will describe some of my scientific research. For the main concepts, such as what is cosmology or a galaxy survey, I have written about them in the blog. If you have any inquiries, please feel free to contact me.  
 
 I am a physicist working at the intersection between astronomical data, theory and Bayesian statistics. I am interested in cosmology as probed by the large-scale structure of the Universe and its weak gravitational lensing effect, but also in cosmic voids, the connection between galaxies and dark matter halos, and galaxy lensing of the cosmic microwave background (CMB). I focus on developing and applying new inference techniques that enable a principled and Bayesian analysis of galaxy survey data, including the modeling and characterization of their limiting systematic effects.
 
