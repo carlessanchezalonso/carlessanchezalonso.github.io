@@ -18,7 +18,8 @@ I am a physicist working at the intersection between astronomical data, theory a
 
 ## Cosmology from the combination of large-scale structure and weak gravitational lensing
 
-Photometric surveys provide a view of the large-scale structure of the Universe (LSS) through the observation of the galaxy distribution while they also allow for the measurement of the weak gravitational lensing (WL) effect. WL provides crucial information about the late-time Universe as it directly probes the (luminous and dark) matter distribution. The combination of LSS and WL is one of the most promising avenues to study cosmology and dark energy.
+Galaxy surveys provide a view of the large-scale structure of the Universe (LSS) by obtaining information about millions of distant galaxies through extensive observation of the night sky. The distribution of galaxies, tracing the large-scale structure (LSS) of the Universe, is related to the total matter distribution, the one carrying cosmological information, but just in a biased way, as galaxies only exist in rather dense dark matter environments. However, the weak gravitational lensing (WL) effect, inducing correlations in the shapes of distant galaxies due to the presence of gravitational fields between those galaxies and us, is sensitive to the total matter field. Therefore, by combining LSS and WL we can break the degeneracies with the galaxy bias and access the cosmological information contained in the growth of cosmic structures and the local expansion rate.
+
 
 ## Characterizing Photometric Redshifts
 
