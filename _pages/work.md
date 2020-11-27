@@ -26,4 +26,10 @@ Extracting cosmological information from imaging surveys requires the estimation
 
 ## Cosmic voids and void lensing
 
+{::nomarkdown}
+<figure class="site-profile2">
+    <img src="{{ site.baseurl }}/assets/img/voids_animation.gif">
+</figure>
+{:/}
+
 Cosmic voids are large, nearly empty regions in space surrounded by a filamentary network of galaxies and dark matter. Due to their low matter density, voids are extremely sensi- tive to diffuse components such as dark energy, and hence represent ideal entities to study modifications of gravity, and also provide independent and complementary information to galaxy-based studies. However, no void studies existed for imaging surveys given the diffi- culty of detecting them due to photometric redshift errors. That situation changed when in Sánchez et al. (2017) I developed a novel void finder designed for minimizing the im- pact of such errors, and I successfully performed the first measurement of void lensing in a photometric survey. That study constitutes a milestone for void science, as it unlocks void analyses from the huge amount of data coming from imaging surveys. As an example, the void finder I developed has later been used to analyze the late-time Integrated Sachs-Wolfe effect via the CMB imprint in voids (Kovács, Sánchez et al. 2017,2019), an effect which has presented excess signals in the past (Granett et al. 2008). Furthermore, as another example, the void finder has also been used to trace the relationship between mass and light in void environments (Fang et al. 2019).
