@@ -200,3 +200,20 @@ p.post-desc {
     border-width: 0px;
   }
 }
+
+
+.site-profile3 {
+  float: right;
+  width: 156.6px;
+  height: 111.3px;
+  border-width: 0px;
+  margin: 0.5rem 0rem 2rem 5rem;
+}
+
+@include mq-up(md) {
+  .site-profile3 {
+    width: 320.28px;
+    height: 227px;
+    border-width: 0px;
+  }
+}
