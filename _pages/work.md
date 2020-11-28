@@ -13,7 +13,7 @@ permalink: /work/
 ---
 
 {::nomarkdown}
-<figure class="site-profile2">
+<figure class="site-profile4">
     <img src="{{ site.baseurl }}/assets/img/des.jpeg">
 </figure>
 {:/}
