@@ -26,7 +26,20 @@ I have been a member of the DES Collaboration since 2013, and I hold *builder* s
 
 ## Cosmology from the combination of large-scale structure and weak gravitational lensing
 
-Galaxy surveys provide a view of the large-scale structure of the Universe (LSS) by obtaining information about millions of distant galaxies through extensive observation of the night sky. The distribution of galaxies, tracing the large-scale structure (LSS) of the Universe, is related to the total matter distribution, the one carrying cosmological information, but just in a biased way, as galaxies only exist in rather dense dark matter environments. However, the weak gravitational lensing (WL) effect, inducing correlations in the shapes of distant galaxies due to the presence of gravitational fields between those galaxies and us, is sensitive to the total matter field. Therefore, by combining LSS and WL we can break the degeneracies with the galaxy bias and access the cosmological information contained in the growth of cosmic structures and the local expansion rate.
+Galaxy surveys provide a view of the large-scale structure of the Universe (LSS) by obtaining information about millions of distant galaxies through extensive observation of the night sky. The distribution of galaxies, tracing the large-scale structure (LSS) of the Universe, is related to the total matter distribution, the one carrying cosmological information, but just in a biased way, as galaxies only exist in rather dense dark matter environments. However, the weak gravitational lensing (WL) effect, inducing correlations in the shapes (shear) of distant galaxies due to the presence of gravitational fields between those galaxies and us, is sensitive to the total matter field. Therefore, by combining LSS and WL we can break the degeneracies with the galaxy bias and access the cosmological information contained in the growth of cosmic structures and the local expansion rate.
+
+The main large-scale structure and weak lensing observables are the correlation functions of galaxy clustering (galaxy-galaxy), galaxy-galaxy lensing (galaxy-shear) and cosmic shear (shear-shear). For the DES Science Verification (SV) data, in Kwan, Sánchez et al. (2017) I measured the angular clustering and the galaxy-galaxy lensing of red galaxies in the DES-SV data and co-led the first cosmological analysis from the combination of LSS and WL probes in DES. This combination of clustering and galaxy-galaxy lensing breaks the degeneracies between cosmological parameters and galaxy bias, which we also studied in detail in Prat, Sánchez et al. (2018a). 
+
+The analysis of the DES Year 1 (Y1) data set used a more optimal
+extraction of cosmological information, involving the full combination of the three two-point
+functions, in what is now the standard in the field, and refered to as a 3x2pt analysis
+(Abbott et al. 2018). This combination not only maximizes the information but also helps
+in constraining systematic effects that influence each probe differently. For that analysis, I
+co-led the measurement and characterization of one of the three correlation functions, galaxy-
+galaxy lensing (Prat, Sánchez et al. 2018b). In that work, we provided what it is one of the
+highest signal-to-noise weak lensing measurement to date, with S/N = 73, and the full DES
+Y1 3x2pt cosmological analysis that we performed using those three probes demonstrated
+comparable constraining power to that from the Planck2015 CMB analysis.
 
 
 ## Characterizing Photometric Redshifts
