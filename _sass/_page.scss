@@ -224,16 +224,16 @@ p.post-desc {
 
 .site-profile4 {
   float: right;
-  width: 250.6px;
-  height: 180.3px;
+  width: 180.6px;
+  height: 125.3px;
   border-width: 0px;
   margin: 0.5rem 0rem 2rem 2rem;
 }
 
 @include mq-up(md) {
   .site-profile4 {
-    width: 480.28px;
-    height: 320px;
+    width: 370.28px;
+    height: 247px;
     border-width: 0px;
   }
 }
