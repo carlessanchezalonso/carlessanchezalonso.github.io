@@ -37,6 +37,12 @@ Galaxy surveys provide a view of the large-scale structure of the Universe (LSS)
 
 The main large-scale structure and weak lensing observables are the correlation functions of galaxy clustering (galaxy-galaxy), galaxy-galaxy lensing (galaxy-shear) and cosmic shear (shear-shear). For the DES Science Verification (SV) data, in Kwan, Sánchez et al. (2017) I measured the angular clustering and the galaxy-galaxy lensing of red galaxies in the DES-SV data and co-led the first cosmological analysis from the combination of LSS and WL probes in DES. This combination of clustering and galaxy-galaxy lensing breaks the degeneracies between cosmological parameters and galaxy bias, which we also studied in detail in Prat, Sánchez et al. (2018a). 
 
+{::nomarkdown}
+<figure class="site-profile2">
+    <img src="{{ site.baseurl }}/assets/img/cosmo_y1.png">
+</figure>
+{:/}
+
 The analysis of the DES Year 1 (Y1) data set used a more optimal
 extraction of cosmological information, involving the full combination of the three two-point
 functions, in what is now the standard in the field, and refered to as a 3x2pt analysis
