@@ -220,3 +220,20 @@ p.post-desc {
     border-width: 0px;
   }
 }
+
+
+.site-profile4 {
+  float: right;
+  width: 250.6px;
+  height: 180.3px;
+  border-width: 0px;
+  margin: 0.5rem 0rem 2rem 2rem;
+}
+
+@include mq-up(md) {
+  .site-profile4 {
+    width: 480.28px;
+    height: 320px;
+    border-width: 0px;
+  }
+}
