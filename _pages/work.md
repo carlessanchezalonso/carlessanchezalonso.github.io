@@ -12,14 +12,13 @@ permalink: /work/
 
 ---
 
+I am a physicist working at the intersection between astronomical data, theory and statistics. I am interested in cosmology as probed by the large-scale structure of the Universe and its weak gravitational lensing effect, and hence I work with data from galaxy surveys. During my career, I have made several contributions to the success of imaging surveys as a new key cosmological probe, focusing on overcoming their limitations and reinforcing their strengths, and I have worked with data from the [Dark Energy Survey (DES)](https://www.darkenergysurvey.org). DES is an international, collaborative ongoing effort to image and analyze hundreds of millions of galaxies by using a dedicated extremely sensitive 570 Mega-pixel camera (DECam) mounted on the Blanco 4-meter telescope in Chile. 
+
 {::nomarkdown}
 <figure class="site-profile4">
     <img src="{{ site.baseurl }}/assets/img/des.jpeg">
 </figure>
 {:/}
-
-I am a physicist working at the intersection between astronomical data, theory and statistics. I am interested in cosmology as probed by the large-scale structure of the Universe and its weak gravitational lensing effect, and hence I work with data from galaxy surveys. During my career, I have made several contributions to the success of imaging surveys as a new key cosmological probe, focusing on overcoming their limitations and reinforcing their strengths, and I have worked with data from the [Dark Energy Survey (DES)](https://www.darkenergysurvey.org). DES is an international, collaborative ongoing effort to image and analyze hundreds of millions of galaxies by using a dedicated extremely sensitive 570 Mega-pixel camera (DECam) mounted on the Blanco 4-meter telescope in Chile. 
-
 I have been a member of the DES Collaboration since 2013, and I hold *builder* status and act as the co-convener of the *Redshifts Working Group* and member of the DES *Science Committee*. In particular, I have been the lead author of a number of key DES publications, such as the first photometric redshift analysis, the first cosmological results from the combination of large-scale structure and weak gravitational lensing, and pioneering studies with cosmic voids. Beyond DES, I also spend time developing and applying new inference techniques that enable a principled and Bayesian analysis of galaxy survey data, including the modeling and characterization of their limiting systematic effects, and I have recently published a number of essential analyses on those lines. 
 
 ---
