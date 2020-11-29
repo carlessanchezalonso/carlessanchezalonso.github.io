@@ -15,7 +15,7 @@ permalink: /work/
 I am a physicist working at the intersection between astronomical data, theory and statistics. I am interested in cosmology as probed by the large-scale structure of the Universe and its weak gravitational lensing effect, and hence I work with data from galaxy surveys. During my career, I have made several contributions to the success of imaging surveys as a new key cosmological probe, focusing on overcoming their limitations and reinforcing their strengths, and I have worked with data from the [Dark Energy Survey (DES)](https://www.darkenergysurvey.org). DES is an international, collaborative ongoing effort to image and analyze hundreds of millions of galaxies by using a dedicated extremely sensitive 570 Mega-pixel camera (DECam) mounted on the Blanco 4-meter telescope in Chile. 
 
 {::nomarkdown}
-<figure class="site-profile4">
+<figure class="site-profile5">
     <img src="{{ site.baseurl }}/assets/img/des.jpeg">
 </figure>
 {:/}
