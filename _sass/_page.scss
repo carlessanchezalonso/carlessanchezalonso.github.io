@@ -237,3 +237,20 @@ p.post-desc {
     border-width: 0px;
   }
 }
+
+.site-profile5 {
+  float: center;
+  width: 220.6px;
+  height: 155.3px;
+  border-width: 0px;
+  margin: 0.5rem 0rem 2rem 2rem;
+}
+
+@include mq-up(md) {
+  .site-profile5 {
+    float: right;
+    width: 420.28px;
+    height: 280px;
+    border-width: 0px;
+  }
+}
