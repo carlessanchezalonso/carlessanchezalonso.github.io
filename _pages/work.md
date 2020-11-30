@@ -54,7 +54,7 @@ Extracting cosmological information from imaging surveys requires the estimation
 In [*Sánchez et al. (2014)*](https://arxiv.org/abs/1406.4407) I led the first assessment of the photometric redshift (photo-z) capabilities of the DES Camera, which was the world’s most powerful digital camera at the time. We characterized an extensive set of photo-z algorithms, including state-of-the-art machine learning techniques, and my work enabled the subsequent state-of-the-art science carried out by DES, also becoming a central reference in the photo-z literature.
 
 {::nomarkdown}
-<figure class="site-profile3">
+<figure class="site-profile5">
     <img src="{{ site.baseurl }}/assets/img/hbm.jpeg">
 </figure>
 {:/}
