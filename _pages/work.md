@@ -38,7 +38,7 @@ The main large-scale structure and weak lensing observables are the correlation 
 The [*analysis*](https://arxiv.org/abs/1708.01530) of the DES Year 1 (Y1) data set used a more optimal
 extraction of cosmological information, involving the full combination of the three two-point
 functions, in what is now the standard in the field, and refered to as a 3x2pt analysis
-(Abbott et al. 2018). This combination not only maximizes the information but also helps
+[(Abbott et al. 2018)](https://arxiv.org/abs/1708.01530). This combination not only maximizes the information but also helps
 in constraining systematic effects that influence each probe differently. For that analysis, I
 co-led the measurement and characterization of one of the three correlation functions, galaxy-
 galaxy lensing [*(Prat, Sánchez et al. 2018b)*](https://arxiv.org/abs/1708.01537). In that work, we provided what it is one of the
