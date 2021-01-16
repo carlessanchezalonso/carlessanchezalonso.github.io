@@ -3,7 +3,7 @@ title: What is cosmology?
 desc: Setting up the context for future related posts
 ---
 
-Welcome to the first post in this blog! I hope to be posting about a variety of topics here, and some of them will be unconnected to each other. However, some posts will have some common link to cosmology as a context, because that is the field I work on. Therefore, I thought it would be appropriate to start by a brief descrition of cosmology as a field of study in physics. Later on, I will also introduce galaxy surveys, which is even closer to what I actually do, but let's start by the basics and the big picture. 
+*Welcome to the first post in this blog! I hope to be posting about a variety of topics here, and some of them will be unconnected to each other. However, some posts will have some common link to cosmology as a context, because that is the field I work on. Therefore, I thought it would be appropriate to start by a brief descrition of cosmology as a field of study in physics. Later on, I will also introduce galaxy surveys, which is even closer to what I actually do, but let's start by the basics and the big picture.*
 
 Cosmology is the branch of physics that studies the origin, evolution and structure of the Universe as a whole, and it was mainly developed in the twentieth century, definitely moving from philosophy to science. Modern cosmology is based on the belief that the place we occupy in the Universe is not special, statement that we know as the *cosmological principle*. In particular, it states that:
 - The Universe is *homogeneous*, meaning that it looks the same in all locations, and 
