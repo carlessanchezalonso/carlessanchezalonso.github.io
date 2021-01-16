@@ -17,7 +17,7 @@ Shortly after these theoretical developments, in 1929, Edwin Hubble measured the
 
 Within the framework of GR, which naturally accomodates (or even predicts!) a dynamical Universe, the expansion rate of the Universe depends on its energy content in a way that, for instance, a universe containing only matter should eventually slow down due to the attractive force of gravity. However, in 1998, observations of type Ia supernovae (SNe) at distances up to about 6 bilion light years by two independent research groups, led by Saul Perlmutter and by Brian Schmidt and Adam Riess respectively, revealed that presently the expansion is instead accelerating (Perlmutter et al., 1999; Riess et al., 1998). 
 
-This acceleration of the expansion is attributed in the Standard Cosmological Model to the presence of an unknown kind of fluid, possibly related to a cosmological constant, that we call dark energy (DE). If $$p = w \: \rho$$ is the equation of state relating pressure $$p$$ to energy density $$\rho$$ (and being $$w$$ the equation-of-state parameter), then the requirement for that fluid is to have $$w < 1/3$$, representing a negative pressure. So far, we do not know what is the nature of this so-called dark energy that makes the expansion of the Universe to accelerate. Moreover, current measurements of the energy content of the Universe show that DE accounts for about 70% of the total energy density of the Universe. Of the remainder, more than 25% is due to an unknown form of matter (called dark matter, DM) and only less than 5% of the energy density corresponds to ordinary matter like protons, electrons and neutrinos (see e. g. Planck 2015 results, Ade et al. 2016).
+This acceleration of the expansion is attributed in the Standard Cosmological Model to the presence of an unknown kind of fluid, possibly related to a cosmological constant, that we call dark energy (DE). So far, we do not know what is the nature of this so-called dark energy that makes the expansion of the Universe to accelerate. Moreover, current measurements of the energy content of the Universe show that DE accounts for about 70% of the total energy density of the Universe. Of the remainder, more than 25% is due to an unknown form of matter (called dark matter, DM) and only less than 5% of the energy density corresponds to ordinary matter like protons, electrons and neutrinos (see e. g. Planck 2015 results, Ade et al. 2016).
 
 
 
@@ -27,51 +27,3 @@ This acceleration of the expansion is attributed in the Standard Cosmological Mo
 - Wiki
 - PhD thesis
 - Modern Cosmology
-
-
-## Stricto nitar
-
-Lorem markdownum liquidas. Ad qui saxo prodis una, dextra medicamina fremit
-voce, Iuppiter, sum morte, et. Est hos est vultum ocius dextra praetulit
-aequoris hominem.
-
-- Decet fore donec
-- Exiguo pontus fulgorem specto vultumque dederas
-- Vix ferire metu ferox
-- Loci quis postera quicquid nullis
-
-## Cum visuras longo venisse denique utinam rurigenae
-
-Laeva clamat qui Perseus erit, discrimine ramos illa
-[restabat](http://iactato.com/parsque-aliter.php): bracchia, templa, ab
-spectans. Monte contigit Rhodosque manus mille est omnia eiusdem nondum: qui.
-Modo o Nisus [Haemoniam primus](http://operatus.com/utve-dat.html) male hic
-iactis in undas et vel nunc et Tantalides fuit crede. Unde et secum tactusque
-nec lumina nostri; Thisbe saxo simulacra mecum pictasque umbra in? Matris alis
-dat.
-
-## Exclamat illis omnipotens huic enses est
-
-Cannis detrahe et postquam, turba delere ergo radios sunt! Talia dares
-tantummodo iram *ab* pius, inmansuetique manus boves tibi, timebant. Dedit
-ossibus accedere siccat. Inritare submovet figuris quam, volucrem falsa. Videt
-eripite pro [Semina](http://modo.net/).
-
-Nitor dicimus potentia ad pedis. Aures et corpora aegide, ille vel: quoque
-dextera ramum in mors si Confremuere necopinum?
-
-## Poena corpus enixa fumo non auctor iudice
-
-Peregit commisisse conantem nihil contigerant terras colla consitor favilla
-exstitit crepitantibus quam Hesperien. Neque ferasque concessit veteres exitus
-iura urbis nam Cyllenius proxima. Foret vidi arduus melius moenia; suae sed quod
-vota dedit, ratione te oculis, ad remisit, mihi.
-
-> Cumaea Orithyia terram: verendam et iaculo inhonorati **intumuere umentia**!
-> Tuorum esse sed Atridae cum melius, plenissima aurea, **caelum**. Cythereius
-> *liber*. Fert extra tenus homine opportuna precari. Ecce quae cani amantem,
-> ast posse, **vixisti et**.
-
-Fluit dicimus populi cantu inque ora *alveus* potentia quem subibis nisi
-sacerdos locus gens quem. Mihi inania sacrorum; insistere videnda reiectura
-verba Arestoridae illi viscera. Incertam natae creatis suis.
